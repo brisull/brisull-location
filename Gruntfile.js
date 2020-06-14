@@ -1,7 +1,7 @@
 module.exports = function(grunt) {
 
   // The target directory for the final build product.
-  var targetDirectory = 'out';
+  var targetDirectory = '../gatsby-universal/location';
 
   grunt.initConfig({
     appengine: {
